@@ -42,13 +42,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hellticia&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hellticia&theme=shadow_red&hide_border=false" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=snowborges&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowborges&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Top Langs">
 </p>
 
 ## 💭
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Quote">
 </p>
 
 ##
