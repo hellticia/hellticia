@@ -54,5 +54,5 @@
 
 ##
 <p align="center">
-  <img src="https://github.com/hellticia/hellticia/blob/output/github-snake-dark.svg" alt="snake gif">
+  <img src="https://github.com/snowborges/snowborges/blob/output/github-snake-dark.svg" alt="snake gif">
 </p>
